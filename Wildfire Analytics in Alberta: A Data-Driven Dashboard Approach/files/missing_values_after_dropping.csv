@@ -1,0 +1,13 @@
+feature,missing_values_after_dropping_pct
+discovered_date,43.739
+activity_class,40.193
+bucketing_on_fire,37.081
+fire_fighting_start_size,36.019
+fuel_type,19.156
+relative_humidity,3.016
+wind_direction,3.016
+wind_speed,3.016
+weather_conditions_over_fire,2.992
+temperature,2.992
+fire_position_on_slope,2.919
+fire_spread_rate,2.654
