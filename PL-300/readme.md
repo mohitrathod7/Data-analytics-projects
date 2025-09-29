@@ -1,1 +1,1 @@
-I am pursuing PL-300 certification.
+PL-300 certification will be updated by 17th October 2025
